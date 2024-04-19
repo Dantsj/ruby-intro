@@ -12,11 +12,12 @@ spades = [2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King", "Ace"]
 
 # Sample output:
 # 2 of Clubs
-# 2 of Diamonds
-# 2 of Hearts
-# 2 of Spades
 # 3 of Clubs
-# ...
+# 4 of Clubs
+# ...etc
+# Queen of Spades
+# King of Spades
+# Ace of Spades
 
 # CHALLENGE #1
 # The arrays are identical for each suit and can be simplified by using
